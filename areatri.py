@@ -1,0 +1,5 @@
+base,height=input().split()
+base=int(base)
+height=int(height)
+triange=(1/2)*(base*height)
+print(round(triange))
