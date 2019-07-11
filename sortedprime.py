@@ -1,6 +1,6 @@
-inp1=int(input())
-for j in range(2,inp1+1):
-  if(inp1%j==0):
+inp11=int(input())
+for j in range(2,inp11+1):
+  if(inp11%j==0):
       inp2=0
       for m in range(2,j+1):
           if(j%m==0) and (m!=j):
