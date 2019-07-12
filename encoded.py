@@ -1,9 +1,9 @@
 inptt1=input()
-inpt2=''
-inpt3='0ABCDEFGHIJKLMNOPQRSTUVWXYZABC'
+i2=''
+i3='0ABCDEFGHIJKLMNOPQRSTUVWXYZABC'
 for i in inptt1:
-    if i in inpt3:
-        inpt4=inpt3.index(i)
+    if i in i3:
+        inpt4=i3.index(i)
         inpt4=inpt4+3
-        inpt2=inpt2+inpt3[inpt4]
-print(inpt2)
+        i2=i2+i3[inpt4]
+print(i2)
