@@ -1,5 +1,6 @@
 import math
-n=int(input())
+no=int(input())
+n=no
 n=math.radians(n)
 n=math.sin(n)
 if(n>0):
