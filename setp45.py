@@ -7,7 +7,7 @@ for i in range(max(l,s)):
             f=1
             break
 if f==1:
-    print("YES")
+    print("yes")
 else:
-    print("NO")
+    print("no")
     
