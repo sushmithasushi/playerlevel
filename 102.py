@@ -1,2 +1,2 @@
 nn=input()
-print(int(nn),2)
+print(int(nn,2)
