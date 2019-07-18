@@ -1,2 +1,2 @@
-m,n=map(int,input().split())
-print(m<<n)
+mm,n=map(int,input().split())
+print(mm<<n)
