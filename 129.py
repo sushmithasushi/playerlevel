@@ -1,2 +1,2 @@
-s=input()
-print(int(s,16))
+ss=input()
+print(int(ss,16))
